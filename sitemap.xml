@@ -3,9 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aneshkesavan.com/</loc>
+    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>https://aneshkesavan.com/categories/</loc>
+    <loc>https://aneshkesavan.com/posts/</loc>
+    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>https://aneshkesavan.com/tags/primer/</loc>
+    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>https://aneshkesavan.com/posts/post1/</loc>
+    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
   </url><url>
     <loc>https://aneshkesavan.com/tags/</loc>
+    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>https://aneshkesavan.com/tags/todo/</loc>
+    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>https://aneshkesavan.com/categories/</loc>
   </url>
 </urlset>
