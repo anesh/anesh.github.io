@@ -9,6 +9,15 @@
     <copyright>© Anesh Kesavan</copyright>
     <lastBuildDate>Wed, 01 Apr 2020 02:01:58 +0530</lastBuildDate><atom:link href="https://aneshkesavan.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>F5 Automation Courses</title>
+      <link>https://aneshkesavan.com/courses/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://aneshkesavan.com/courses/</guid>
+      <description> F5 Automation with Python F5 Automation with Ansible F5 Automation with Terraform  </description>
+    </item>
+    
+    <item>
       <title>Primer: When You Have Too Much to Do</title>
       <link>https://aneshkesavan.com/posts/post1/</link>
       <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
@@ -17,6 +26,17 @@
       <description>You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
 It all keeps piling up, and it can feel overwhelming.
 How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://aneshkesavan.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aneshkesavan.com/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
     </item>
     
   </channel>
